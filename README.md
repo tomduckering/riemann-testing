@@ -20,7 +20,7 @@ Just some helper code to make testing Riemann as a black box easier.
 
 This includes:
 
-1. Some helper code that's called in the `before(:all)` block it will start up riemann with your config. This is all contained in 'riemann_runner.rb'
+1. Some helper code that's called in the `before(:all)` block it will start up riemann with your config. This is all contained in `riemann_runner.rb`.
 
 2. Some code to pretend to be a logstash server (since this is what I'll be sending some events to). This too is started in the `before(:all)` block. The code for this is in `fake_logstash.rb`. It starts a multithreaded socket server and parses all lines to it as JSON and pops them in an array. In the 'before(:each)` block we reset that array to make sure the tests are as isolated as possible.
 3. At the end in the `after(:all)` block we stop riemann.
