@@ -1,0 +1,130 @@
+INFO [2015-07-13 17:14:44,688] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:14:44,701] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:14:44,801] clojure-agent-send-off-pool-3 - riemann.transport.udp - UDP server 127.0.0.1 5555 16384 online
+INFO [2015-07-13 17:14:44,801] clojure-agent-send-off-pool-0 - riemann.transport.tcp - TCP server 127.0.0.1 5555 online
+INFO [2015-07-13 17:14:44,803] main - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:14:48,900] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:14:48,902] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:14:48,917] clojure-agent-send-off-pool-3 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:14:48,918] clojure-agent-send-off-pool-3 - riemann.logstash - Connected
+INFO [2015-07-13 17:14:48,921] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:14:53,483] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:14:53,485] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:14:53,498] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:14:53,499] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:14:53,502] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:14:57,994] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:14:57,995] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:14:58,010] clojure-agent-send-off-pool-3 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:14:58,011] clojure-agent-send-off-pool-3 - riemann.logstash - Connected
+INFO [2015-07-13 17:14:58,014] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:15:12,011] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:15:12,012] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:15:12,023] clojure-agent-send-off-pool-3 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:15:12,024] clojure-agent-send-off-pool-3 - riemann.logstash - Connected
+INFO [2015-07-13 17:15:12,025] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:15:16,530] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:15:16,532] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:15:16,545] clojure-agent-send-off-pool-5 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:15:16,546] clojure-agent-send-off-pool-5 - riemann.logstash - Connected
+INFO [2015-07-13 17:15:16,548] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:28:39,013] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:28:39,027] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:28:39,109] clojure-agent-send-off-pool-3 - riemann.transport.udp - UDP server 127.0.0.1 5555 16384 online
+INFO [2015-07-13 17:28:39,109] clojure-agent-send-off-pool-0 - riemann.transport.tcp - TCP server 127.0.0.1 5555 online
+INFO [2015-07-13 17:28:39,111] main - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:28:43,146] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:28:43,149] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:28:43,179] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:28:43,180] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:28:43,183] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:28:47,738] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:28:47,740] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:28:47,752] clojure-agent-send-off-pool-2 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:28:47,753] clojure-agent-send-off-pool-2 - riemann.logstash - Connected
+INFO [2015-07-13 17:28:47,756] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:28:52,254] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:28:52,257] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:28:52,269] clojure-agent-send-off-pool-5 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:28:52,270] clojure-agent-send-off-pool-5 - riemann.logstash - Connected
+INFO [2015-07-13 17:28:52,272] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:29:06,272] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:29:06,274] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:29:06,286] clojure-agent-send-off-pool-2 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:29:06,287] clojure-agent-send-off-pool-2 - riemann.logstash - Connected
+INFO [2015-07-13 17:29:06,288] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:29:10,793] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:29:10,795] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:29:10,806] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:29:10,807] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:29:10,809] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:30:49,907] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:30:49,918] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:30:50,016] clojure-agent-send-off-pool-3 - riemann.transport.tcp - TCP server 127.0.0.1 5555 online
+INFO [2015-07-13 17:30:50,017] clojure-agent-send-off-pool-0 - riemann.transport.udp - UDP server 127.0.0.1 5555 16384 online
+INFO [2015-07-13 17:30:50,019] main - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:30:54,100] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:30:54,103] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:30:54,157] clojure-agent-send-off-pool-3 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:30:54,159] clojure-agent-send-off-pool-3 - riemann.logstash - Connected
+INFO [2015-07-13 17:30:54,164] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:30:58,669] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:30:58,671] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:30:58,714] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:30:58,715] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:30:58,720] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:31:03,177] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:31:03,179] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:31:03,225] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:31:03,226] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:31:03,231] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:31:17,194] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:31:17,196] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:31:17,231] clojure-agent-send-off-pool-4 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:31:17,232] clojure-agent-send-off-pool-4 - riemann.logstash - Connected
+INFO [2015-07-13 17:31:17,236] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:31:21,703] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:31:21,705] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:31:21,744] clojure-agent-send-off-pool-3 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:31:21,747] clojure-agent-send-off-pool-3 - riemann.logstash - Connected
+INFO [2015-07-13 17:31:21,749] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:33:42,957] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:33:42,967] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:33:43,051] clojure-agent-send-off-pool-0 - riemann.transport.udp - UDP server 127.0.0.1 5555 16384 online
+INFO [2015-07-13 17:33:43,051] clojure-agent-send-off-pool-3 - riemann.transport.tcp - TCP server 127.0.0.1 5555 online
+INFO [2015-07-13 17:33:43,053] main - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:33:47,325] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:33:47,328] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:33:47,376] clojure-agent-send-off-pool-3 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:33:47,378] clojure-agent-send-off-pool-3 - riemann.logstash - Connected
+INFO [2015-07-13 17:33:47,382] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:33:51,890] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:33:51,891] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:33:51,939] clojure-agent-send-off-pool-4 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:33:51,940] clojure-agent-send-off-pool-4 - riemann.logstash - Connected
+INFO [2015-07-13 17:33:51,944] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:33:56,401] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:33:56,403] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:33:56,439] clojure-agent-send-off-pool-4 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:33:56,440] clojure-agent-send-off-pool-4 - riemann.logstash - Connected
+INFO [2015-07-13 17:33:56,444] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:34:10,407] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:34:10,409] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:34:10,447] clojure-agent-send-off-pool-4 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:34:10,449] clojure-agent-send-off-pool-4 - riemann.logstash - Connected
+INFO [2015-07-13 17:34:10,454] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:34:14,914] SIGHUP handler - riemann.bin - Caught SIGHUP, reloading
+INFO [2015-07-13 17:34:14,915] SIGHUP handler - riemann.pubsub - Sweeping transient subscriptions.
+INFO [2015-07-13 17:34:14,950] clojure-agent-send-off-pool-1 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:34:14,952] clojure-agent-send-off-pool-1 - riemann.logstash - Connected
+INFO [2015-07-13 17:34:14,955] SIGHUP handler - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:43:10,126] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:43:10,141] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:43:10,250] clojure-agent-send-off-pool-1 - riemann.transport.tcp - TCP server 127.0.0.1 5555 online
+INFO [2015-07-13 17:43:10,250] clojure-agent-send-off-pool-5 - riemann.transport.udp - UDP server 127.0.0.1 5555 16384 online
+INFO [2015-07-13 17:43:10,252] main - riemann.core - Hyperspace core online
+INFO [2015-07-13 17:45:31,995] clojure-agent-send-off-pool-0 - riemann.logstash - Connecting to  {:port 5665, :host localhost}
+INFO [2015-07-13 17:45:32,008] clojure-agent-send-off-pool-0 - riemann.logstash - Connected
+INFO [2015-07-13 17:45:32,101] clojure-agent-send-off-pool-1 - riemann.transport.udp - UDP server 127.0.0.1 5555 16384 online
+INFO [2015-07-13 17:45:32,101] clojure-agent-send-off-pool-3 - riemann.transport.tcp - TCP server 127.0.0.1 5555 online
+INFO [2015-07-13 17:45:32,103] main - riemann.core - Hyperspace core online
