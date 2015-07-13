@@ -20,9 +20,10 @@ Just some helper code to make testing Riemann as a black box easier.
 
 This includes:
 
-1. Some helper code that's called in the `@before` block it will start up riemann with your config. This is all contained in 'riemann_runner.rb'
+1. Some helper code that's called in the `before(:all)` block it will start up riemann with your config. This is all contained in 'riemann_runner.rb'
 
-2. Some code to pretend to be a logstash server (since this is what I'll be sending some events to). This too is started in the `@before` block. The code for this is in `fake_logstash.rb`. It starts a multithreaded socket server and parses all lines to it as JSON and pops them in an array. Before each test case we reset that array to make sure the tests are as isolated as possible.
+2. Some code to pretend to be a logstash server (since this is what I'll be sending some events to). This too is started in the `before(:all)` block. The code for this is in `fake_logstash.rb`. It starts a multithreaded socket server and parses all lines to it as JSON and pops them in an array. In the 'before(:each)` block we reset that array to make sure the tests are as isolated as possible.
+3. At the end in the `after(:all)` block we stop riemann.
 
 Tests do one of two things:
 
@@ -32,8 +33,10 @@ Tests do one of two things:
 
 ## What's wrong with it?
 
-* Liberal use of `sleep(x)`
+* Liberal use of `sleep(x)` seems smelly.
 * Tests don't reset the index so you have to be careful since the state of Riemann's index may impact later tests.
+* I'm sure it could be much tidier.
+* It could be a gem.
 
 ##What next?
 
